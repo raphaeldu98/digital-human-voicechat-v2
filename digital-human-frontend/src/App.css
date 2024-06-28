@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.digital-human {
+  height: 60vh;  
+  width: 100%;
+  background: #e0e0e0;
+}
+
+.conversation {
+  height: 20vh;  
+  overflow-y: auto;
+  background: #fff;
+  padding: 10px;
+  border-top: 1px solid #ccc;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-top: 1px solid #ccc;
+}
+
+input {
+  width: 70%;
+  padding: 15px;
+  margin-right: 10px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+button {
+  padding: 15px 25px;
+  font-size: 16px;
+  cursor: pointer;
+}
