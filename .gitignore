@@ -1,3 +1,6 @@
 
 /chatTTS
 .DS_Store
+/digital-human-frontend/node_modules
+/digital-human-backend/node_modules
+/node_modules
